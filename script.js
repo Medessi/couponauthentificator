@@ -97,10 +97,10 @@ document.addEventListener('DOMContentLoaded', () => {
             invalidCoupon: "Coupon invalide. Veuillez réessayer."
         },
         en: {
-            home: "Home",
-            features: "Features",
-            about: "About",
-            contact: "Contact",
+            // home: "Home",
+            //features: "Features",
+            // about: "About",
+           // contact: "Contact",
             title: "Verify your coupons with one click",
             description: "Choose the type of coupon you want to verify:",
             featuresTitle: "Our features",
@@ -120,10 +120,10 @@ document.addEventListener('DOMContentLoaded', () => {
             invalidCoupon: "Invalid coupon. Please try again."
         },
         es: {
-            home: "Inicio",
-            features: "Características",
-            about: "Acerca de",
-            contact: "Contacto",
+            // home: "Inicio",
+            // features: "Características",
+            // about: "Acerca de",
+            // contact: "Contacto",
             title: "Verifica tus cupones con un clic",
             description: "Elige el tipo de cupón que deseas verificar:",
             featuresTitle: "Nuestras características",
@@ -143,10 +143,10 @@ document.addEventListener('DOMContentLoaded', () => {
             invalidCoupon: "Cupón inválido. Por favor, inténtalo de nuevo."
         },
         de: {
-            home: "Startseite",
-            features: "Funktionen",
-            about: "Über uns",
-            contact: "Kontakt",
+            // home: "Startseite",
+            // features: "Funktionen",
+            // about: "Über uns",
+            // contact: "Kontakt",
             title: "Überprüfen Sie Ihre Gutscheine mit einem Klick",
             description: "Wählen Sie den Gutscheintyp aus, den Sie überprüfen möchten:",
             featuresTitle: "Unsere Funktionen",
